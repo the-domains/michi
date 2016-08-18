@@ -1,0 +1,14 @@
+layout_spectrum: 0.5900365891866386
+typography_spectrum: 0.3167410639580339
+color:
+  brandStrength: 0.744457182707265
+  lightness: 0.44492593850009143
+  saturation: 0.03616440366022289
+  rhythmicContrast: 0.14725419599562883
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: michi
